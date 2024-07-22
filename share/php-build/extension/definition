@@ -3,6 +3,8 @@
 "apcu","http://pecl.php.net/get/apcu-$version.tgz","https://github.com/krakjoe/apcu.git",,,"extension",
 "igbinary","http://pecl.php.net/get/igbinary-$version.tgz","https://github.com/igbinary/igbinary.git",,,"extension",
 "imagick","http://pecl.php.net/get/imagick-$version.tgz","https://github.com/mkoppanen/imagick.git",,,"extension",
+"redis","http://pecl.php.net/get/redis-$version.tgz","https://github.com/phpredis/phpredis.git",,,"extension",
+"excimer","http://pecl.php.net/get/excimer-$version.tgz","https://github.com/wikimedia/mediawiki-php-excimer.git",,,"extension",
 "memcache","http://pecl.php.net/get/memcache-$version.tgz","git@git.php.net:/pecl/caching/memcache.git",,,"extension",
 "memcached","http://pecl.php.net/get/memcached-$version.tgz","https://github.com/php-memcached-dev/php-memcached.git",,"--disable-memcached-sasl","extension",
 "uprofiler",,"https://github.com/FriendsOfPHP/uprofiler.git","extension",,"extension","uprofiler_after_install"
