@@ -5,6 +5,8 @@ configure_option "--with-mhash"
 
 configure_option -D "--with-xmlrpc"
 
+patch_file "php-7.4-libxml2-2.12.patch"
+
 install_package "https://www.php.net/distributions/php-8.1.29.tar.bz2"
 install_xdebug "3.3.1"
 enable_builtin_opcache
